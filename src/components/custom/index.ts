@@ -1,3 +1,3 @@
 import GithubSite from './GithubSite.vue'
 
-export {  }
+export { GithubSite }
